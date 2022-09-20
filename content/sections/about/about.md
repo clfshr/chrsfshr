@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/profile-pic.jpg"
+imageAlt: "C.Fisher profile pic"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I’m a self taught Developer from a time when there were no coding bootcamps or accelerated web degrees. My path to coding was a slow burn that gave me the passion and determination needed to excel in my career. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+In my 10 years of experience working in the industry, I have been blessed to work on some awesome projects and with some amazing people.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I’ve built websites and donation campaigns that have resulted in donation amounts of more than 1Million dollars for national non-profits like Humane Society and American Heart Association.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I worked with [IBM Watson](/watson-edu) to build their first go to market application in the education industry to specifically help teachers manage their classroom using AI.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Led development and management of IBM Quantum’s first publicly branded [marketing site](/quantum-site) that grew to over 1Million+ views annually and ranked #1 organically on Google, for the search term “What is Quantum Computing?”.

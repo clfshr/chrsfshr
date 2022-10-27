@@ -57,6 +57,13 @@
       }
     },
     {
+      "label": "Design Thinking",
+      "image": {
+        "src": "../../images/design_thinking.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Figma",
       "image": {
         "src": "../../images/icons8-figma-48.png",

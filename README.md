@@ -1,5 +1,3 @@
-<img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
-
 # Gatsby Starter Portfolio Minimal Theme
 
 #### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.

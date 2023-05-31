@@ -57,6 +57,13 @@
       }
     },
     {
+      "label": "Wordpress",
+      "image": {
+        "src": "../../images/icons8-wordpress-48.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Design Thinking",
       "image": {
         "src": "../../images/design_thinking.png",
@@ -76,7 +83,15 @@
         "src": "../../images/icons8-sketch-100.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Adobe EM",
+      "image": {
+        "src": "../../images/icons8-adobe-48.png",
+        "alt": ""
+      }
     }
+
   ],
   "button": {
     "visible": true,

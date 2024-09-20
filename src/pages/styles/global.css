@@ -1,9 +1,0 @@
-img {
-    object-fit: contain !important;
-    border-radius: 0 !important;
-    height: auto !important;
-}
-
-.gatsby-resp-image-wrapper, .gatsby-resp-image-background-image {
-    margin: 0;
-}
